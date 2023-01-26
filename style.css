@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #648DE5
+}
+
+.title {
+    font-size: 60px;
+    border-radius: 500px;
+    padding: 20px 30px;
+    background-color: #EFF1F3;
+}
